@@ -1,0 +1,7 @@
+README for CPSC 323 Project 1, Daniel Lee
+
+-Download .cpp file and open in Visual Studio Code
+-Download Input_File.txt, and ensure both files are in the same folder
+-Ensure you have a C++ compiler already downloaded
+-Press F5, or select Run without Debugging
+-The program will output the lexemes into a file called "output.txt" in the same folder

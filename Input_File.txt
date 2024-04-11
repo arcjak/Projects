@@ -1,0 +1,2 @@
+for(i=0; i < 6; i++)
+{std::cout << "This is input file" << i << std::endl;}
